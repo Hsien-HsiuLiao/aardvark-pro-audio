@@ -15,3 +15,5 @@ https://web.archive.org/web/20080820060617/http://asg.hopto.org/
 
 Driver downloads - https://web.archive.org/web/20041207074832/http://www.aardvarkaudio.com/download/
 
+https://web.archive.org/web/20000418192718/http://www.aardvark-pro.com/aark2020_specs.html
+
